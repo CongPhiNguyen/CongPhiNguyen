@@ -4,12 +4,14 @@
     <img src="">
 </p>
 -->
-# Hi there 👋
+# Hi there 👋 ![Views](https://komarev.com/ghpvc/?username=CongPhiNguyen)
 My name is **Nguyễn Công Phi**, I am currently a student at University of Information Technology in field of Software Engineering. I want to be a web developer with ReactJS.
 
 ## Language
 * Javascript 
 * HTML, CSS
+* C++
+* C#
 
 ## Framework
 * ReactJS
@@ -22,6 +24,8 @@ My name is **Nguyễn Công Phi**, I am currently a student at University of Inf
 ![CongPhiNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=CongPhiNguyen&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CongPhiNguyen&langs_count=4&layout=compact&hide=dart&theme=tokyonight)
+
+
 <!-- # Markdown syntax guide -->
 
 <!--
