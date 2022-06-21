@@ -6,6 +6,7 @@
 -->
 # Hi there 👋 
 My name is **Nguyễn Công Phi**, I am currently a student at University of Information Technology in field of Software Engineering. I want to be a web developer with ReactJS.
+<br></br>
 ![Views](https://komarev.com/ghpvc/?username=CongPhiNguyen)
 
 ## Language
