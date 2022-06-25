@@ -14,11 +14,12 @@ My name is **Nguyễn Công Phi**, I am currently a student at University of Inf
 <p style="display: flex">
   <a href="https://www.facebook.com/nguyencongphi312/" style="display: flex;">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
-    <span style="line-height: 30px; margin-left: 10px">Nguyễn Công Phi</span>
+    <span style="line-height: 30px; margin-left: 10px">&nbsp;&nbsp;Nguyễn Công Phi</span>
   </a>
+	&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/phicn312/" style="display: flex; margin-left: 100px">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
-    <span style="line-height: 30px; margin-left: 10px">Phi Nguyễn Công</span>
+    <span style="line-height: 30px; margin-left: 10px">&nbsp;&nbsp;Phi Nguyễn Công</span>
   </a>
 
 </p>
@@ -103,11 +104,12 @@ My name is **Nguyễn Công Phi**, I am currently a student at University of Inf
 <p style="display: flex">
   <a href="https://www.hackerrank.com/nguyencongphi" style="display: flex;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Facebook" height="30" width="30">
-    <span style="line-height: 30px; margin-left: 10px">Nguyễn Công Phi</span>
+    <span style="line-height: 30px; margin-left: 10px">&nbsp;&nbsp;Nguyễn Công Phi</span>
+	  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://leetcode.com/UIT19522006/" style="display: flex; margin-left: 100px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Linkedin" height="30" width="30">
-    <span style="line-height: 30px; margin-left: 10px">UIT19522006</span>
+    <span style="line-height: 30px; margin-left: 10px">&nbsp;&nbsp;UIT19522006</span>
   </a>
 
 </p>
