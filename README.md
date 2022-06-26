@@ -49,6 +49,10 @@ My name is **Nguyễn Công Phi**, I am currently a student at University of Inf
     		<span>CSS</span><br>
     		<img style="margin-top: 10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png">
         </td>
+	<td width="20%" align="center">
+    		<span>MongoDB</span><br>
+    		<img style="margin-top: 0px" height="80px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
+        </td>
     </tr>
     <tr valign="top">
 	    <td width="20%" align="center">
@@ -66,10 +70,14 @@ My name is **Nguyễn Công Phi**, I am currently a student at University of Inf
 	    <td width="20%" align="center">
     		<span>Git</span><br>
     		<img style="margin-top: 10px" height="60px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+	</td>
+	<td width="20%" align="center">
+    		<span>Flutter</span><br>
+    		<img style="margin-top: 0px" height="60px" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png">
         </td>
-        <td width="20%" align="center">
-    		<span>MongoDB</span><br>
-    		<img style="margin-top: 0px" height="80px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
+	<td width="20%" align="center">
+    		<span>VScode</span><br>
+    		<img style="margin-top: 0px" height="60px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
         </td>
     </tr>
   </tbody>
