@@ -87,8 +87,8 @@ My name is **Nguyễn Công Phi**, I am currently a student at University of Inf
 ## My Project
 
 <p align="center">	
-<a href="https://github.com/Minhthang1506/SE100Project">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Minhthang1506&repo=SE100Project&theme=tokyonight" alt="CongPhiNguyen" />
+<a href="https://github.com/WibuWings/SE100Project">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=WibuWings&repo=SE100Project&theme=tokyonight" alt="CongPhiNguyen" />
 </a>
 <a href="https://github.com/LuongThienPhuoc/SellingBook-FE">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuongThienPhuoc&repo=SellingBook-FE&theme=tokyonight" alt="CongPhiNguyen"></img>
@@ -131,14 +131,6 @@ My name is **Nguyễn Công Phi**, I am currently a student at University of Inf
 ## Github Statistics
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CongPhiNguyen&theme=dark"></img>
-</p>
-
-<p align="center"  style="margin-top:-20px">
-    <img 
-        style="width:calc(96% - 10px)"
-        src="https://activity-graph.herokuapp.com/graph?username=CongPhiNguyen&&theme=xcode"
-        >
-    </img>
 </p>
 
 <p align="center" style="margin-top:-20px">
