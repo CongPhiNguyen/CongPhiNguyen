@@ -5,7 +5,7 @@
 </p>
 -->
 # Hi there 👋 
-Hi, My name is **Nguyen Cong Phi**, a graduate student at the University of Information Technology towards an engineer in Software Technology as a class valedictorian. I have 1 year and 6 months of work in the field of FullStack Web Developer. I use ReactJs and other UI libraries like Ant Design proficiently to build UI and ExpressJs, NestJs, and Redis to build the Backend for the web. I have tried Data monitoring and research for AI and applying that knowledge to my job. I also like algorithms and have some achievements and awards with them. I am proud of my English in communication (TOEIC 875), research, and comprehension documents.
+Hi, My name is **Nguyen Cong Phi**, a graduate student at the University of Information Technology towards an engineer in Software Technology as a class valedictorian. I have 2 years of work in the field of FullStack Web Developer. I use ReactJs and other UI libraries like Ant Design proficiently to build UI and ExpressJs, NestJs, and Redis to build the Backend for the web. I have tried Data monitoring and research for AI and applying that knowledge to my job. I also like algorithms and have some achievements and awards with them. I am proud of my English in communication (TOEIC 875), research, and comprehension documents.
 <br></br>
 ![Views](https://komarev.com/ghpvc/?username=CongPhiNguyen)
 
