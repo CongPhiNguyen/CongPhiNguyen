@@ -63,18 +63,6 @@ I enjoy turning complex business workflows into products that are simple to use,
 - Improved data freshness from **T-1 day to T-1 hour** in backend pipelines.
 - Collaborated across product, design, data, and engineering to ship high-impact features.
 
-### Career timeline
-
-```mermaid
-timeline
-  title Career Journey
-  2021-07 : Full Stack Developer Intern @ DevCircle
-  2022-06 : Fullstack Engineer @ TAPTAP Vietnam
-  2023-12 : Full-stack Gamification Platform & CMS
-  2024-06 : Real-time Data Processing Systems
-  2025-10 : Fullstack Engineer @ TSC
-```
-
 ---
 
 ## Education
@@ -104,12 +92,9 @@ GPA: **8.79/10** · Ranked **#1** in graduation cohort
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CongPhiNguyen&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CongPhiNguyen&layout=compact&hide=dart&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=CongPhiNguyen&theme=tokyonight" alt="GitHub streak" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CongPhiNguyen&theme=tokyonight" alt="GitHub stats" />
+  <img width="32%" src="https://streak-stats.demolab.com?user=CongPhiNguyen&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CongPhiNguyen&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p>
@@ -117,7 +102,7 @@ GPA: **8.79/10** · Ranked **#1** in graduation cohort
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=CongPhiNguyen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=CongPhiNguyen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ---
