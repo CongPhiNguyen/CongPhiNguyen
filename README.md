@@ -66,29 +66,6 @@ GPA: **8.79/10** · Ranked **#1** in graduation cohort
 
 ---
 
-## Certifications & awards
-
-- HackerRank — Problem Solving (Intermediate)
-- freeCodeCamp — JavaScript Algorithms and Data Structures
-- CodeTour x Uni 2020 — Finalist
-
----
-
-## Competitive programming & profiles
-
-- [HackerRank](https://www.hackerrank.com/nguyencongphi)
-- [LeetCode](https://leetcode.com/UIT19522006/)
-- [CodeLearn](https://codelearn.io/profile/202408)
-
----
-
-## Selected projects
-
-- **[ONE OF US](https://github.com/CongPhiNguyen/one-of-us/tree/feat/chapter1-before-nine)** — Browser narrative puzzle built with React, TypeScript, and SVG. The Chapter 1 prototype uses reusable interactive assets, and player discoveries unlock different dialogue choices.
-- **[Clip Forge](https://github.com/CongPhiNguyen/clip-forge)** — Local-first storyboard workspace for AI-assisted video production. It validates imported shot plans and keeps character references, render attempts, and human approvals together.
-
----
-
 ## Let's connect
 
 - LinkedIn: [linkedin.com/in/phicn312](https://www.linkedin.com/in/phicn312)
