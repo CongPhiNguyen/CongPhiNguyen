@@ -1,13 +1,13 @@
 # Hi, I'm Nguyen Cong Phi 👋
 
-**Fullstack Engineer (4+ years)** building scalable products with strong focus on system design, performance, and clean developer experience.
+**Backend-focused Full-Stack Engineer · Node.js / TypeScript · 4+ years**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Fullstack+Engineer+%7C+React+%2B+Next.js+%2B+Node.js;Building+scalable+products+for+millions+of+users;Loves+clean+architecture%2C+performance%2C+and+DX)](https://git.io/typing-svg)
+I build APIs, data pipelines, and product workflows. At TAPTAP, I improved segmentation data freshness from **T−1 day to T−1 hour**. I also build React interfaces when the work needs an end-to-end solution.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=CongPhiNguyen&style=flat-square)](https://github.com/CongPhiNguyen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phicn312-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/phicn312)
 [![Email](https://img.shields.io/badge/Email-congphinguyen312%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:congphinguyen312@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Fullstack%20Roles-success?style=flat-square)](https://www.linkedin.com/in/phicn312)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Backend%20%26%20Full--Stack-success?style=flat-square)](https://www.linkedin.com/in/phicn312)
 
 ---
 
@@ -20,13 +20,6 @@
 - 🌍 English: **TOEIC 875**
 
 I enjoy turning complex business workflows into products that are simple to use, fast, and maintainable.
-
-### Impact snapshot
-
-![Users](https://img.shields.io/badge/Users_Impacted-3M%2B-7C3AED?style=for-the-badge)
-![Data Freshness](https://img.shields.io/badge/Data_Freshness-T--1_day_%E2%86%92_T--1_hour-0891B2?style=for-the-badge)
-![Experience](https://img.shields.io/badge/Experience-4%2B_years-16A34A?style=for-the-badge)
-![English](https://img.shields.io/badge/TOEIC-875-F59E0B?style=for-the-badge)
 
 ---
 
@@ -86,6 +79,13 @@ GPA: **8.79/10** · Ranked **#1** in graduation cohort
 - [HackerRank](https://www.hackerrank.com/nguyencongphi)
 - [LeetCode](https://leetcode.com/UIT19522006/)
 - [CodeLearn](https://codelearn.io/profile/202408)
+
+---
+
+## Selected projects
+
+- **[ONE OF US](https://github.com/CongPhiNguyen/one-of-us/tree/feat/chapter1-before-nine)** — Browser narrative puzzle built with React, TypeScript, and SVG. The Chapter 1 prototype uses reusable interactive assets, and player discoveries unlock different dialogue choices.
+- **[Clip Forge](https://github.com/CongPhiNguyen/clip-forge)** — Local-first storyboard workspace for AI-assisted video production. It validates imported shot plans and keeps character references, render attempts, and human approvals together.
 
 ---
 
