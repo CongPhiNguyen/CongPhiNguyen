@@ -89,24 +89,6 @@ GPA: **8.79/10** · Ranked **#1** in graduation cohort
 
 ---
 
-## GitHub stats
-
-<p>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CongPhiNguyen&theme=tokyonight" alt="GitHub stats" />
-  <img width="32%" src="https://streak-stats.demolab.com?user=CongPhiNguyen&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CongPhiNguyen&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CongPhiNguyen&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
-</p>
-
-<p>
-  <img src="https://trophy.ryglcloud.net/?username=CongPhiNguyen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" alt="GitHub trophies" />
-</p>
-
----
-
 ## Let's connect
 
 - LinkedIn: [linkedin.com/in/phicn312](https://www.linkedin.com/in/phicn312)
